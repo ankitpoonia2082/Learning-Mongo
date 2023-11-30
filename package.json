@@ -1,0 +1,23 @@
+{
+  "name": "mongopro",
+  "version": "1.0.0",
+  "description": "1st mongo project with node/express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitpoonia2082/Learning-Mongo.git"
+  },
+  "author": "Ankit Poonia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitpoonia2082/Learning-Mongo/issues"
+  },
+  "homepage": "https://github.com/ankitpoonia2082/Learning-Mongo#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0"
+  }
+}
